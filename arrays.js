@@ -6,9 +6,9 @@ function addElementToBeginningOfArray(array, element) {
 }
 
 function descructivelyAddElementToBeginningOfArray(array, element) {
-  array.unshift(element)
+  array.unshift(element);
 
-  return array
+  return array;
 }
 
 function addElementToEndOfArray(array, element) {
